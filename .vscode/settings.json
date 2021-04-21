@@ -1,0 +1,5 @@
+{
+    "eslint.debug": true,
+    "eslint.lintTask.enable": true,
+    "eslint.quiet": true
+}
